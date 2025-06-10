@@ -1,0 +1,7 @@
+D:\GitRepository\TestTask\TaskSolution\Task1\bin\Debug\Task1.exe.config
+D:\GitRepository\TestTask\TaskSolution\Task1\bin\Debug\Task1.exe
+D:\GitRepository\TestTask\TaskSolution\Task1\bin\Debug\Task1.pdb
+D:\GitRepository\TestTask\TaskSolution\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\GitRepository\TestTask\TaskSolution\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\GitRepository\TestTask\TaskSolution\Task1\obj\Debug\Task1.exe
+D:\GitRepository\TestTask\TaskSolution\Task1\obj\Debug\Task1.pdb
